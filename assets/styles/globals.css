@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  /* Match Tailwind's default font naming convention */
+  --font-sans: "Poppins", sans-serif;
+
+  /* Match your custom grid template naming */
+  --grid-cols-70\/30: 70% 28%;
+}
